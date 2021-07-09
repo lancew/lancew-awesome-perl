@@ -122,6 +122,7 @@ I allso recommend checking out these lists.
 
 * [App::cpanminus](https://metacpan.org/pod/App::cpanminus)
 * [Carton](https://metacpan.org/pod/Carton)
+* [update-cpanfile](https://metacpan.org/pod/update-cpanfile)
 
 
 ## Profiling
